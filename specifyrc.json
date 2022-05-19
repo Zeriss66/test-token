@@ -1,0 +1,24 @@
+{
+  "repository": "@stride-it/TokenTest",
+  "head": "specify",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "path": "assets/styles/variables/colors.css",
+      "filter":{
+        "types": ["color"]
+      },
+      "parsers": [
+        {
+          "name": "sort-by",
+          "options": {
+            "keys": ["name"]
+          }
+        },
+        {
+          "name": "to-style-dictionary"
+        }
+      ]
+    }
+  ]
+}
