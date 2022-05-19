@@ -16,7 +16,10 @@
           }
         },
         {
-          "name": "to-style-dictionary"
+          "name": "to-style-dictionary",
+          "options": {
+            "splitBy": "/"
+          }
         }
       ]
     }
