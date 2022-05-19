@@ -1,5 +1,5 @@
 {
-  "repository": "@stride-it/test-token",
+  "repository": "@stride-it/TokenTest",
   "head": "specify",
   "rules": [
     {
