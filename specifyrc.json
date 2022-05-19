@@ -4,7 +4,7 @@
   "rules": [
     {
       "name": "Design Tokens / Colors",
-      "path": "assets/styles/variables/colors.css",
+      "path": "",
       "filter":{
         "types": ["color"]
       },
